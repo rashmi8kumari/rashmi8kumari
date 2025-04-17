@@ -10,9 +10,9 @@ Feel free to get in touch with me:
 
 🔗 LinkedIn: https://www.linkedin.com/in/rashmi-kumari-4b171726b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
-💻 GitHub: rashmi8kumari
+💻 GitHub: https://github.com/rashmi8kumari
 
-🧠 LeetCode: rashmi_kumari12
+🧠 LeetCode: https://leetcode.com/u/rashmi_kumari12/
 
 Education
 Bsc in Forensic Science
