@@ -9,7 +9,7 @@ Feel free to get in touch with me:
 
 📧 Email: rashmi8shahi@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/rashmi-kumari-4b171726b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+🔗 LinkedIn: https://bit.ly/4kVBZqJ
 
 💻 GitHub: https://github.com/rashmi8kumari
 
