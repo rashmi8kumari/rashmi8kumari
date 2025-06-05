@@ -44,22 +44,22 @@ SKOLAR | Software Engineer Intern
 
 # Achievements:
 
-1.Ideathon an Hackathon-style event 2nd Runner Up
+1. Ideathon an Hackathon-style event 2nd Runner Up
 
-2.Full Stack Web Development Internship at Skolar
+2. Full Stack Web Development Internship at Skolar
 
-3.Developer and Technology Job Simulation Course by Accenture
+3. Developer and Technology Job Simulation Course by Accenture
 
-4.Accenture Nordics - Software Engineering Job Simulation
+4. Accenture Nordics - Software Engineering Job Simulation
 
-5.E-cell Medicaps University - Event manager
+5. E-cell Medicaps University - Event manager
 
-6.Forensic Club, Medicaps University, Indore
+6. Forensic Club, Medicaps University, Indore
 
-7.Full Stack Web Development Course by CodingNinjas
+7. Full Stack Web Development Course by CodingNinjas
 
-8.Certificate of Appreciation by Devtown
+8. Certificate of Appreciation by Devtown
 
-9.Cyber Forensics Online Course by Great Learning
+9. Cyber Forensics Online Course by Great Learning
 
 
