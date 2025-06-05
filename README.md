@@ -38,20 +38,28 @@ Tools: Git, GitHub, Postman
 
 Familiar: Docker, Socket.io
 
-Experience:
+#Experience:
 
 SKOLAR | Software Engineer Intern
 
-Achievements:
+#Achievements:
 
-Ideathon an Hackathon-style event 2nd Runner Up
-Full Stack Web Development Internship at Skolar
-Developer and Technology Job Simulation Course by Accenture
-Accenture Nordics - Software Engineering Job Simulation
-E-cell Medicaps University - Event manager
-Forensic Club, Medicaps University, Indore
-Full Stack Web Development Course by CodingNinjas
-Certificate of Appreciation by Devtown
-Cyber Forensics Online Course by Great Learning
+1.Ideathon an Hackathon-style event 2nd Runner Up
+
+2.Full Stack Web Development Internship at Skolar
+
+3.Developer and Technology Job Simulation Course by Accenture
+
+4.Accenture Nordics - Software Engineering Job Simulation
+
+5.E-cell Medicaps University - Event manager
+
+6.Forensic Club, Medicaps University, Indore
+
+7.Full Stack Web Development Course by CodingNinjas
+
+8.Certificate of Appreciation by Devtown
+
+9.Cyber Forensics Online Course by Great Learning
 
 
