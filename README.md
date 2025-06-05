@@ -44,4 +44,13 @@ SKOLAR | Software Engineer Intern
 
 Achievements:
 
-Ideathon 2nd Runner Up- Ideathon is a Hackathon style event focused on innovation and problem solving. My team conceptualized and developed an idea called Intrudex, a tool designed to detect vulnerabilities in Windows systems. The tool aims to identify security flaws and help improve system resilience by providing proactive solutions to prevent potential threats. Our idea was awarded 2nd Runner Up for its practicality, innovation, and potential impact on cybersecurity
+Ideathon an Hackathon-style event 2nd Runner Up
+Full Stack Web Development Internship at Skolar
+Developer and Technology Job Simulation Course by Accenture
+Accenture Nordics - Software Engineering Job Simulation
+E-cell Medicaps University - Event manager
+Forensic Club, Medicaps University, Indore
+Full Stack Web Development Course by CodingNinjas
+Certificate of Appreciation by Devtown
+Cyber Forensics Online Course by Great Learning
+
