@@ -15,7 +15,7 @@ Feel free to get in touch with me:
 
 🧠 LeetCode: https://leetcode.com/u/rashmi_kumari12/
 
-Education:
+# Education:
 
 Bsc in Forensic Science
 MedI-Caps University, Indore, India
@@ -38,11 +38,11 @@ Tools: Git, GitHub, Postman
 
 Familiar: Docker, Socket.io
 
-#Experience:
+# Experience:
 
 SKOLAR | Software Engineer Intern
 
-#Achievements:
+# Achievements:
 
 1.Ideathon an Hackathon-style event 2nd Runner Up
 
